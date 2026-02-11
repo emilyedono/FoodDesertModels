@@ -1,0 +1,13 @@
+pandas
+scipy
+matplotlib
+statsmodels
+numpy
+scikit-learn
+pingouin
+seaborn
+pyreadstat
+openpyxl
+jupyter
+factor-analyzer
+matplotlib-venn
